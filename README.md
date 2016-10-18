@@ -1,2 +1,2 @@
 # Phase2
-revamp with Julia and Python tricks
+revamp with Julia and Python JIT tricks
